@@ -1,0 +1,5 @@
+c:\users\geeksfarm\documents\visual studio 2015\Projects\Pengamatan2\Pengamatan2\bin\Debug\Pengamatan2.exe.config
+c:\users\geeksfarm\documents\visual studio 2015\Projects\Pengamatan2\Pengamatan2\bin\Debug\Pengamatan2.exe
+c:\users\geeksfarm\documents\visual studio 2015\Projects\Pengamatan2\Pengamatan2\bin\Debug\Pengamatan2.pdb
+c:\users\geeksfarm\documents\visual studio 2015\Projects\Pengamatan2\Pengamatan2\obj\Debug\Pengamatan2.exe
+c:\users\geeksfarm\documents\visual studio 2015\Projects\Pengamatan2\Pengamatan2\obj\Debug\Pengamatan2.pdb
